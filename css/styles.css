@@ -1,0 +1,21 @@
+body {
+ color:aqua;
+ background-color: beige; 
+}
+h1 {
+    color: red;
+    background-color: thistle;
+}
+p   {
+    color: green;
+    background-color: lime;
+
+}
+#p2 {
+    color: rgb(166, 255, 0);
+    background-color: rgb(255, 0, 204);
+}
+.parrafo {
+    color: brown;
+    background-color: lightgray;
+}
