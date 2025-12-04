@@ -16,6 +16,10 @@ p   {
     background-color: rgb(255, 0, 204);
 }
 .parrafo {
-    color: brown;
+    color: var(--main-color);
     background-color: lightgray;
+}
+:root {
+    --main-color: purple;
+    --secondary-color: lightyellow;
 }

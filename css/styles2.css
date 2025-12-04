@@ -1,0 +1,14 @@
+div{ color: aqua;
+background-color: beige;
+}
+h1
+{color: aliceblue;}
+p
+{color: red;}
+#p2
+{ color: rgb(0, 255, 255);      
+
+background-color: rgb(255, 0, 255);
+}   
+a:hover
+{ color: orange;}   
