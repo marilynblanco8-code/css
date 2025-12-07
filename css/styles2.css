@@ -6,9 +6,14 @@ h1
 p
 {color: red;}
 #p2
-{ color: rgb(0, 255, 255);      
+{ color: rgb(75, 198, 198);      
 
 background-color: rgb(255, 0, 255);
 }   
 a:hover
 { color: orange;}   
+#caja {width: 50vmin;
+height: 20vmin;
+/*  background:linear-gradient(45deg, rgb(71, 71, 88), rgb(93, 26, 176), red);}*/
+/* background: radial-gradient(circle,red,blue,yellow);}*/
+background: conic-gradient(from 90deg, red, yellow, green, cyan, blue, magenta, red);}
